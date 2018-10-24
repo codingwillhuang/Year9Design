@@ -1,0 +1,7 @@
+#print("enter a number:")
+print("please enter a number:")
+num = input()
+newnum = input()
+num = int(num)
+newnum = int(newnum)
+print(num*newnum)
